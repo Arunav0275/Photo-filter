@@ -1,0 +1,24 @@
+canvas{
+    border:solid 1px #ff1a1a;
+    width:400px;
+    height:200px;
+    border-radius:10px;
+    margin:0px 400px;
+  }
+  
+  #header{
+    width:95%;
+    margin:5px 10px 0px 25px;
+    border:solid 0px;
+    
+  }
+  h1{
+    text-align:center;
+  }
+  
+  .h1{
+    background-color:#80d4ff;
+  }
+  body{
+    background-color:#ffb3d9;
+  }
